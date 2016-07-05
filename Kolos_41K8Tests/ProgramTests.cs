@@ -18,7 +18,16 @@ namespace Kolos_41K8.Tests
             int test = Program.Rozwiazanie(tab);
             int poprawne = 60;
             Assert.AreEqual(poprawne, test);
-           
+
+        }
+
+        [TestMethod()]
+        public void SortowanieTest()
+        {
+            int[] tab = { -3, 1, 2, -2, 5, 6 };
+            int [] test = Program.Sortowanie(tab);
+            int poprawne = -3;
+            Assert.AreEqual(poprawne, test[0]);
         }
     }
 }

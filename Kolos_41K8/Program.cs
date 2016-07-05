@@ -8,12 +8,19 @@ namespace Kolos_41K8
 {
      public class Program
     {
-     
+        //Sortowanie Tablicy
+        public static int[] Sortowanie(int[] tab)
+        {            
+            Array.Sort(tab);
+            return tab;
+
+        }
+
 
         public static int Rozwiazanie( int []tab)
         {
-              
-            Array.Sort(tab);          
+            tab = Sortowanie(tab);
+                  
             int dlugoscTab = tab.Length;
             int wynik;
             Console.WriteLine(string.Join(",", tab));
