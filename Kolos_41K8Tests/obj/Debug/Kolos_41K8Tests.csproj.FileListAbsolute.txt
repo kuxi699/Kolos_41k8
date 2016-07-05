@@ -1,0 +1,8 @@
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\bin\Debug\Kolos_41K8Tests.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\bin\Debug\Kolos_41K8Tests.pdb
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\bin\Debug\Kolos_41K8.exe
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\bin\Debug\Kolos_41K8.pdb
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\obj\Debug\Kolos_41K8Tests.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\obj\Debug\Kolos_41K8Tests.dll
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8Tests\obj\Debug\Kolos_41K8Tests.pdb

@@ -9,7 +9,7 @@ namespace Kolos_41K8
      public class Program
     {
 
-        public static void Rozwiazanie( int []tab)
+        public static int Rozwiazanie( int []tab)
         {
                     
             Array.Sort(tab);          
@@ -34,7 +34,7 @@ namespace Kolos_41K8
 
             }
 
-                       
+            return wynik;      
   
         }
 
