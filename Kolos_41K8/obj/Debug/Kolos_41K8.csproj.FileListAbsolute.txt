@@ -1,1 +1,6 @@
 c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\bin\Debug\Kolos_41K8.exe.config
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\bin\Debug\Kolos_41K8.exe
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\bin\Debug\Kolos_41K8.pdb
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\obj\Debug\Kolos_41K8.csprojResolveAssemblyReference.cache
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\obj\Debug\Kolos_41K8.exe
+c:\users\lukasz\documents\visual studio 2015\Projects\Kolos_41K8\Kolos_41K8\obj\Debug\Kolos_41K8.pdb
