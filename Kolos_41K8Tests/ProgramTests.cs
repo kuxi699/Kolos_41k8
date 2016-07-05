@@ -17,7 +17,8 @@ namespace Kolos_41K8.Tests
             int[] tab = { -3, 1, 2, -2, 5, 6 };
             int test = Program.Rozwiazanie(tab);
             int poprawne = 60;
-            Assert.AreEqual(test, poprawne);
+            Assert.AreEqual(poprawne, test);
+           
         }
     }
 }
